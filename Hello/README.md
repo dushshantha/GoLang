@@ -3,12 +3,12 @@ This is the traditional "Hello, World!" with Go. No learning a new language with
 
 You can run the programs by using the the go command below
 
-'''
+'''pyton
 go run <filename>
 '''
 
 You can also compile the code into an executable by using:
-'''
+'''python
 go build <filename>
 '''
 This will create an executable file depending on your OS which you can run standalone.
