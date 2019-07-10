@@ -3,8 +3,8 @@ In this repo, I maintain all the Go code I created while learning the language. 
 
 ## Topics covered:
 1. [Simple Hello World](/Hello)
-2. Variables
-3. Arrays
-4. Loop(s)
-5. Conditions
+2. [Variables](/Variables)
+3. [Arrays](/Arrays)
+4. [Loop(s)](/Loops)
+5. [Conditions](/Conditionals)
 
