@@ -34,3 +34,8 @@ And finally, You can declare and assign a variable without using var keyword as 
 <variablename> := <value>
 ```
 
+Constants are pretty much the same as variables, replace the keyword var with const
+```
+const <constantname> <type>  // etc. etc.
+```
+
