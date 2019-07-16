@@ -20,3 +20,18 @@ if condition_1{
     statement_3
 }
 ```
+
+Go also supports more traditional Switch statements. The syntax is something like this:
+
+```
+switch expression {
+    case value_1:
+        statements_1
+    case value_2:
+        statements_2
+    case value_n:
+        statements_n
+    default:
+        statements_default
+    }
+```
