@@ -7,4 +7,5 @@ In this repo, I maintain all the Go code I created while learning the language. 
 3. [Arrays](/Arrays)
 4. [Loop(s)](/Loops)
 5. [Conditions](/Conditionals)
+6. [Functions](/Functions)
 
